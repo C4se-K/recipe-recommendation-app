@@ -25,11 +25,13 @@
 
 ### Usage
 1. Starting the backend server.
+   then start the server. 
 ```text
   cd backend
+  uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-1. Starting the backend server.
+2 Starting the frontend website.
 ```text
   cd frontend
 ```
