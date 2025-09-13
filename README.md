@@ -31,7 +31,7 @@
   uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-2 Starting the frontend website.
+2. Starting the frontend website.
 ```text
   cd frontend
 ```
