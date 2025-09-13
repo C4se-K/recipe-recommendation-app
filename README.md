@@ -17,7 +17,7 @@
 
 ### Installation
 
-1. clone the repository `https://github.com/C4se-K/recipe-recommendation-app.git`
+1. clone the repository https://github.com/C4se-K/recipe-recommendation-app.git
 ```text
   git clone https://github.com/C4se-K/recipe-recommendation-app.git
 ```
